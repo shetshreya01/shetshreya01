@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shetshreya
-- 👀 I’m interested in web development,android app development and data science.![SHREYA JPG](https://user-images.githubusercontent.com/74507194/128315879-93378b86-14ee-4c10-9d3d-625c822d8a6f.jpg)
-
+- 👀 I’m interested in web development,android app development and data science.
 - 🌱 I’m currently learning every possible thing.
 - 💞️ I’m looking to collaborate with other website designers.
    -  2021 goal is to create more projects on website development and many other projects.
